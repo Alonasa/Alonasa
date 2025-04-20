@@ -1,5 +1,5 @@
 Hi there 👋, I'm Alona Skrypnyk
-💻Professional software developer with stack: JS, React, Python, Django
+- 💻Professional software developer with stack: JS, React, Python, Django -
 
 ---
 
@@ -18,18 +18,18 @@ Hi there 👋, I'm Alona Skrypnyk
 Here are some of the tools and technologies I work with:
 
 ### **Languages and Frameworks**
-[JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ---
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonasa&layout=compact&theme=tokyonight)
 
 ---
 
@@ -37,7 +37,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌐 Connect with Me
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alona-skrypnyk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alona-skrypnyk/)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://alonasa.github.io/aportfolio/)
 
 ---
