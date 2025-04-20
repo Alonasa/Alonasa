@@ -1,7 +1,7 @@
-## Hi there 👋
-## I'm Alona Skrypnyk
-## Professional software developer with stack: JS, React, Python, Django
-## 🔭 I’m currently working on a development e-commerce application, which have the goal to connect people who like handmade sweets with end-consumers 
+Hi there 👋
+I'm Alona Skrypnyk
+💻Professional software developer with stack: JS, React, Python, Django
+🔭 I’m currently working on a development e-commerce application, which have the goal to connect people who like handmade sweets with end-consumers 
 ## 🌱 I’m currently gaining my Bachelor's Degree in Software Development at ATU Galway and looking for possibilities to develop my skillset  
 
 <!--
