@@ -1,5 +1,5 @@
 Hi there 👋, I'm Alona Skrypnyk,
-- 💻Professional software developer with stack: JS, React, Python, Django -
+- 💻Professional software developer with stack: Java, JS, React, Python, Django
 
 ---
 
