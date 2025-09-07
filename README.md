@@ -1,12 +1,11 @@
-Hi there 👋, I'm Alona Skrypnyk
+Hi there 👋, I'm Alona Skrypnyk,
 - 💻Professional software developer with stack: JS, React, Python, Django -
 
 ---
 
 ## 🌟 About Me
-
-- 🔭 I’m currently working on a development e-commerce application, which have the goal to connect people who like handmade sweets with end-consumers 
-- 🌱 I’m currently gaining my Bachelor's Degree in Software Development at ATU Galway and looking for possibilities to develop my skillset  
+- 💻 Interested in the technologies which surround us and their impact on our lives
+- 🌱 I’m currently working on my Higher Diploma in Software Development at ATU Galway-Mayo and looking for possibilities to develop my skillset  
 
 - 📫 How to reach me: **alona.requests@gmail.com**.
 
