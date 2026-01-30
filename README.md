@@ -39,6 +39,8 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonasa&layout=compact&theme=tokyonight)
 
