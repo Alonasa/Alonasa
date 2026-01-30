@@ -34,7 +34,7 @@ Here are some of the tools and technologies I work with:
 
 - **Languages**:
 - 
-  ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=peach)
+  ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Java&logoColor=peach)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
@@ -51,7 +51,7 @@ Here are some of the tools and technologies I work with:
 - **Tools**:
   ![Git](https://path.to.git.image)
   ![Bash](https://path.to.bash.image)
-  ![npm](https://img.shields.io/badge/Npm-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-43853D?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=Django&logoColor=green)
