@@ -35,8 +35,8 @@ Here are some of the tools and technologies I work with:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=peach)
 
----
 <!--
+---
 ## 📈 My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
 
