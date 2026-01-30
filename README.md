@@ -46,7 +46,7 @@ Here are some of the tools and technologies I work with:
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 - **Databases**:
-  ![MySQL](https://img.shields.io/badge/mySQL-20232B?Bstyle=for-the-badge&logo=mySQL&logoColor=peach)
+  ![MySQL](https://img.shields.io/badge/mySQL-20232A?style=for-the-badge&logo=mySQL&logoColor=white)
 
 - **Tools**:
   ![Git](https://path.to.git.image)
