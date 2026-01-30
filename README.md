@@ -22,6 +22,8 @@ Hi there 👋, I'm Alona Skrypnyk,
 - [Angular Mobile Apps Project](https://github.com/Alonasa/Angular_MobileApps): A recipe finder mobile app using Ionic and Angular.
 - [Software Design and Data Structures Project](https://github.com/Alonasa/Software_Design_And_Datastructures_Project): A document similarity checker in Java.
 
+---
+
 ## 🛠️ My Tech Stack
 
 Here are some of the tools and technologies I work with:
