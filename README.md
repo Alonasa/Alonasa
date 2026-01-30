@@ -14,13 +14,13 @@ Hi there 👋, I'm Alona Skrypnyk,
 ---
 
 ## 💪 My Projects 
-- [Pizzy Pizzeria Website](https://github.com/Alonasa/pizzy): A full-stack application to manage pizza orders.
-- [CTA Sorting Algorithms](https://github.com/Alonasa/CTA_Sorting_Algorithms_Project): A benchmarking tool for sorting algorithms.
-- [hdipOOSD](https://github.com/Alonasa/hdipOOSD): A project for encoding and decoding text files.
+- [Web Development Project](https://github.com/Alonasa/pizzy): A full-stack application to manage pizza orders.
+- [CTA Sorting Algorithms Project](https://github.com/Alonasa/CTA_Sorting_Algorithms_Project): A benchmarking tool for sorting algorithms.
+- [OOSD Project](https://github.com/Alonasa/hdipOOSD): A project for encoding and decoding text files.
 - [CATC Project](https://github.com/Alonasa/CATC_Project): Bash scripts for Linux CLI automation.
 - [Databases_Project](https://github.com/Alonasa/Databases_Project): A normalized MySQL database for habit tracking.
-- [Angular Mobile Apps](https://github.com/Alonasa/Angular_MobileApps): A recipe finder mobile app using Ionic and Angular.
-- [Software Design and Data Structures](https://github.com/Alonasa/Software_Design_And_Datastructures_Project): A document similarity checker in Java.
+- [Angular Mobile Apps Project](https://github.com/Alonasa/Angular_MobileApps): A recipe finder mobile app using Ionic and Angular.
+- [Software Design and Data Structures Project](https://github.com/Alonasa/Software_Design_And_Datastructures_Project): A document similarity checker in Java.
 
 ## 🛠️ My Tech Stack
 
