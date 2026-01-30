@@ -36,7 +36,7 @@ Hi there 👋, I'm Alona Skrypnyk,
 Here are some of the tools and technologies I work with:
 
 - **Languages**:
-  ![Java](https://img.shields.io/badge/Java-20232B?style=for-the-badge&logo=java&logoColor=peach)
+  ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=peach)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
@@ -46,7 +46,7 @@ Here are some of the tools and technologies I work with:
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 - **Databases**:
-  ![MySQL](https://img.shields.io/badge/mySQL-20232bBstyle=for-the-badge&logo=mySQL&logoColor=peach)
+  ![MySQL](https://img.shields.io/badge/mySQL-20232B?Bstyle=for-the-badge&logo=mySQL&logoColor=peach)
 
 - **Tools**:
   ![Git](https://path.to.git.image)
