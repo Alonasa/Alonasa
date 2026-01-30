@@ -1,7 +1,12 @@
 Hi there 👋, I'm Alona Skrypnyk,
-- 💻Professional software developer with stack: Java, JS, React, Python, Django
-- 🐱‍💻Try to apply my **programming** and **networking** knowledges, which I gained at ATU Galway-Mayo during my **Information Security Apprenticeship**
 
+- 💻 **Professional software developer** with experience in: 
+  - Java
+  - JavaScript
+  - React
+  - Python
+  - Django
+- 🐱‍💻 Currently applying my **programming** and **networking** knowledge gained at ATU Galway-Mayo during my **Information Security Apprenticeship**.
 ---
 
 ## 🌟 About Me
