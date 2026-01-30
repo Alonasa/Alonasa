@@ -1,16 +1,26 @@
 Hi there 👋, I'm Alona Skrypnyk,
 - 💻Professional software developer with stack: Java, JS, React, Python, Django
+- 🐱‍💻Try to apply my **programming** and **networking** knowledges, which I gained at ATU Galway-Mayo during my **Information Security Apprenticeship**
 
 ---
 
 ## 🌟 About Me
 - 💻 Interested in the technologies which surround us and their impact on our lives
-- 🌱 I’m currently working on my Higher Diploma in Software Development at ATU Galway-Mayo and looking for possibilities to develop my skillset  
-
+- 🌱 I’m currently working on my Higher Diploma in Software Development at ATU Galway-Mayo and looking for possibilities to develop my skillset
+- ✔ Information Security Apprentice at B-Flexion since November 2025
 - 📫 How to reach me: **alona.requests@gmail.com**.
 
 
 ---
+
+## 💪 My Projects 
+- [Pizzy Pizzeria Website](https://github.com/Alonasa/pizzy): A full-stack application to manage pizza orders.
+- [CTA Sorting Algorithms](https://github.com/Alonasa/CTA_Sorting_Algorithms_Project): A benchmarking tool for sorting algorithms.
+- [hdipOOSD](https://github.com/Alonasa/hdipOOSD): A project for encoding and decoding text files.
+- [CATC Project](https://github.com/Alonasa/CATC_Project): Bash scripts for Linux CLI automation.
+- [Databases_Project](https://github.com/Alonasa/Databases_Project): A normalized MySQL database for habit tracking.
+- [Angular Mobile Apps](https://github.com/Alonasa/Angular_MobileApps): A recipe finder mobile app using Ionic and Angular.
+- [Software Design and Data Structures](https://github.com/Alonasa/Software_Design_And_Datastructures_Project): A document similarity checker in Java.
 
 ## 🛠️ My Tech Stack
 
@@ -29,9 +39,9 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonasa&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonasa&layout=compact&theme=tokyonight)
 
 ---
 
