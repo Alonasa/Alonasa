@@ -37,28 +37,30 @@ Here are some of the tools and technologies I work with:
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-###
-- **Frameworks**:
+- ### **Frameworks**:
 ###
   ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=Django&logoColor=green)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-## **Databases**:
+- ### **Databases**:
 ###
   ![MySQL](https://img.shields.io/badge/mySQL-20232A?style=for-the-badge&logo=mySQL&logoColor=white)
 
-## - **Tools**:
+- ### **Tools**:
 ###
   ![Git](https://path.to.git.image)
   ![Bash](https://path.to.bash.image)
   ![npm](https://img.shields.io/badge/npm-43853D?style=for-the-badge&logo=npm&logoColor=white)
 
+<!--
 ---
 ## 📈 My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonasa&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonasa&layout=compact&theme=tokyonight)
+-->
+
 ---
 
 
