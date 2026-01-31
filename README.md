@@ -66,9 +66,8 @@ Here are some of the tools and technologies I work with:
 
 
 ## 🌐 Connect with Me
-
-![LinkedIn](https://www.linkedin.com/in/alona-skrypnyk/):
-![Portfolio Website](https://alonasa.github.io/aportfolio/):
+[LinkedIn](https://www.linkedin.com/in/alona-skrypnyk/):
+[Portfolio Website](https://alonasa.github.io/aportfolio/):
 
 ---
 
