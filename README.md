@@ -45,13 +45,13 @@ Here are some of the tools and technologies I work with:
 
 - ### **Databases**:
   ###
-  ![MySQL](https://img.shields.io/badge/mySQL-20232A?style=for-the-badge&logo=mySQL&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mySQL-blue?style=for-the-badge&logo=mySQL&logoColor=white)
 
 - ### **Tools**:
   ###
   ![Git](https://path.to.git.image)
   ![Bash](https://path.to.bash.image)
-  ![npm](https://img.shields.io/badge/npm-43853D?style=for-the-badge&logo=npm&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-orange?style=for-the-badge&logo=npm&logoColor=white)
 
 <!--
 ---
