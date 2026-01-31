@@ -32,13 +32,15 @@ Hi there 👋, I'm Alona Skrypnyk,
 ## 🛠️ My Tech Stack
 Here are some of the tools and technologies I work with:
 
-## - **Languages**:
+### 
+- **Languages**:
   ###
    ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-## - **Frameworks**:
+###
+- **Frameworks**:
 ###
   ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=Django&logoColor=green)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
