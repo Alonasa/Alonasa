@@ -49,8 +49,8 @@ Here are some of the tools and technologies I work with:
 
 - ### **Tools**:
   ###
-  ![Git](https://path.to.git.image)
-  ![Bash](https://path.to.bash.image)
+  ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=mySQL&logoColor=black)
+  ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=mySQL&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-orange?style=for-the-badge&logo=npm&logoColor=white)
 
 <!--
