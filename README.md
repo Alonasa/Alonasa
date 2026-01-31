@@ -10,9 +10,9 @@ Hi there 👋, I'm Alona Skrypnyk,
 ---
 
 ## 🌟 About Me
-- 💻 Interested in the technologies which surround us and their impact on our lives
-- 🌱 I’m currently working on my Higher Diploma in Software Development at ATU Galway-Mayo and looking for possibilities to develop my skillset
-- ✔ Information Security Apprentice at B-Flexion since November 2025
+- 💻 I have a keen interest in the technologies that shape our lives and their profound impact on society.
+- 🌱 Currently, I'm pursuing a Higher Diploma in Software Development at ATU Galway-Mayo, where I'm eager to expand my skill set and explore new opportunities.
+- ✔ I am excited to be an Information Security Apprentice at B-Flexion, a position I’ve held since November 2025.
 - 📫 How to reach me: **alona.requests@gmail.com**.
 
 
@@ -33,19 +33,16 @@ Hi there 👋, I'm Alona Skrypnyk,
 Here are some of the tools and technologies I work with:
 
 - **Languages**:
-- 
-  ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+  ###![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
+  ###![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ###![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 - **Frameworks**:
-- 
   ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=Django&logoColor=green)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 - **Databases**:
-- 
   ![MySQL](https://img.shields.io/badge/mySQL-20232A?style=for-the-badge&logo=mySQL&logoColor=white)
 
 - **Tools**:
