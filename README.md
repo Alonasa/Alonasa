@@ -49,8 +49,8 @@ Here are some of the tools and technologies I work with:
 
 - ### **Tools**:
   ###
-  ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=mySQL&logoColor=black)
-  ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=mySQL&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black)
+  ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=bash&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-orange?style=for-the-badge&logo=npm&logoColor=white)
 
 <!--
@@ -67,8 +67,8 @@ Here are some of the tools and technologies I work with:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alona-skrypnyk/)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://alonasa.github.io/aportfolio/)
+[![LinkedIn]](https://www.linkedin.com/in/alona-skrypnyk/)
+[![Portfolio Website]](https://alonasa.github.io/aportfolio/)
 
 ---
 
